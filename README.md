@@ -3,6 +3,8 @@
 Free, unattended web scraping on a schedule with **GitHub Actions**. You don't need a server or a database.
 Every day a workflow runs your scrapers and commits the results to `data/`, so your git history becomes a versioned dataset ("git scraping").
 
+Tutorial: [Run a web scraper on a schedule for free with GitHub Actions](https://caelum-kr-11.github.io/blog/free-cron-scraper-github-actions.html)
+
 ## Use it
 1. Click **Use this template**, or fork the repo.
 2. Put a scraper in `scrapers/`. Any `*.mjs` file that writes to `data/` works (Node 20, no dependencies needed).
