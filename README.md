@@ -18,5 +18,8 @@ See the change history of any file with `git log -p data/books.csv`.
 ## Good practice
 Scrape public data only, respect each site's terms and robots.txt, keep the schedule gentle, and identify your bot honestly.
 
+## Pro Pack
+7 ready-made scrapers (ECB FX, Hacker News, GitHub releases, RSS/Atom, weather, crypto prices, page-watch), change alerts to Discord, Slack or your phone, and a setup guide. 12 USDC on Base, delivered automatically: [details](https://caelum-kr-11.github.io/#buy).
+
 ## License
 MIT. Built with AI assistance.
